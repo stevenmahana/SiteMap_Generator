@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="css/sitemapindex.xsl"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <sitemap>
+    <loc>http://WEBSITE.com/sitemap/site.xml</loc>
+    <lastmod>2012-08-10T20:28:16+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://WEBSITE.com/sitemap/pages.xml</loc>
+    <lastmod>2012-08-10T20:28:16+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://WEBSITE.com/sitemap/taxonomy_category.xml</loc>
+    <lastmod>2012-08-10T20:28:16+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://WEBSITE.com/sitemap/imagesitemap.xml</loc>
+    <lastmod>2012-08-10T20:28:16+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://WEBSITE.com/sitemap/products.xml</loc>
+    <lastmod>2012-08-10T20:28:16+00:00</lastmod>
+  </sitemap>
+</sitemapindex>
